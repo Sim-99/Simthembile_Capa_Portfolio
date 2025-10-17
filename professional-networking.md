@@ -19,7 +19,7 @@ As part of the Work Readiness module, I was required to participate in a Profess
 
 Below is a screenshot confirming that I completed the Professional Networking activity on Blackboard:
 
-`![Professional Networking Screenshot](./media/professional-networking.png)`
+![Professional Networking Screenshot](./media/professional-networking.png)
 
 ---
 
