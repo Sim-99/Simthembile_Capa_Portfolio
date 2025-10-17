@@ -17,7 +17,7 @@ As part of the Work Readiness module, I was required to complete a Business Comm
 
 Below is a screenshot confirming that I completed and submitted the Business Communication activity on Blackboard:
 
-`![Business Communication Screenshot](./media/interview-skills.png)`
+![Business Communication Screenshot](./media/professional-networking.png).
 
 *(You can replace this with the actual file path or embed the image once uploaded.)*
 
